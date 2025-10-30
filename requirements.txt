@@ -4,4 +4,4 @@ python-dotenv
 langchain-groq
 langchain-openai
 streamlit
-firebase-admingit
+firebase-admin
