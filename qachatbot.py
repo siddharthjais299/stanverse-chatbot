@@ -104,7 +104,7 @@ st.set_page_config(page_title="Stanverse", page_icon="🌌")
 # --- CREATIVE TITLE AND DESCRIPTION ---
 st.title("🌌 Stanverse chatbot: Your Conversational Partner")
 st.markdown(
-    "Explore the **Stanverse**! Experience ultra-fast, human-like conversations powered by Groq and LangChain. This version features **Long-Term Memory**! ⚡")
+    "Explore the **Stan**! Experience ultra-fast, human-like conversations powered by Groq and LangChain. This version features **Long-Term Memory**! ⚡")
 
 with st.sidebar:
     st.header("Settings")
